@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaiycasual" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiycasual" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oladehinde olajuwon ibidapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oladehinde olajuwon ibidapo" height="30" width="40" /></a>
+<a href="https://ng.linkedin.com/in/oladehinde-olajuwon-265906222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oladehinde olajuwon ibidapo" height="30" width="40" /></a>
 <a href="https://fb.com/oladehinde olajuwon ibidapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oladehinde olajuwon ibidapo" height="30" width="40" /></a>
 <a href="https://instagram.com/jaiycasual" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaiycasual" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tvzpace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tvzpace" height="30" width="40" /></a>
