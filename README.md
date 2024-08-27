@@ -1,5 +1,5 @@
 [![Masterhead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL7XdTdXS_oZ-hu2fEtz_V4YL-9D_9if5uwmmGU0OYAbVlux4li0dJYxI&s=10)
-<h1 align="center">Hi 👋, I'm jaiycasual</h1>
+<h1 align="center">Hi 👋, I'm JAIY</h1>
 <h3 align="center">A passionate cyber security and software developer from Nigeria</h3>
 
 - 🔭 I’m currently working on **software engineering**
